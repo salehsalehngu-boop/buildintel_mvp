@@ -1,0 +1,16 @@
+[
+  {
+    "email": "owner@elm-contractors.eg",
+    "excel": "output/El Masry Contractors_leads_20250823_0116.xlsx",
+    "pdf": "output/El Masry Contractors_intel_20250823_0116.pdf",
+    "items": 80,
+    "ts": "2025-08-23T01:16:24.765209"
+  },
+  {
+    "email": "ceo@niledev.eg",
+    "excel": "output/Nile Developers_leads_20250823_0116.xlsx",
+    "pdf": "output/Nile Developers_intel_20250823_0116.pdf",
+    "items": 20,
+    "ts": "2025-08-23T01:16:24.797690"
+  }
+]

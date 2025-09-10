@@ -1,0 +1,1 @@
+document.getElementById('pay-growth').addEventListener('click',e=>{e.preventDefault();window.location.href='https://accept.paymobsolutions.com/your-growth-link'});
