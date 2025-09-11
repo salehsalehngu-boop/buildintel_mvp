@@ -7,5 +7,14 @@
     "keywords": ["tender", "MEP", "New Cairo", "steel"],
     "paid": true,
     "active": true
+  },
+  {
+    "company": "Demo Client",
+    "email": "islamnbe1@gmail.com",
+    "whatsapp": "whatsapp:+2010YYYYYYYY",
+    "plan": "starter",
+    "keywords": ["housing", "infrastructure", "steel"],
+    "paid": true,
+    "active": true
   }
 ]
