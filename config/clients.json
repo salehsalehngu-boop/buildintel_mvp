@@ -1,28 +1,10 @@
 [
   {
-    "company": "El Masry Contractors",
-    "email": "owner@elm-contractors.eg",
-    "whatsapp": "whatsapp:+201001112223",
+    "company": "Saleh Test",
+    "email": "YOUR_REAL_EMAIL@gmail.com",
+    "whatsapp": "whatsapp:+2010XXXXXXXX",
     "plan": "growth",
-    "keywords": [
-      "contracting",
-      "steel",
-      "tender",
-      "MEP"
-    ],
-    "paid": true,
-    "active": true
-  },
-  {
-    "company": "Nile Developers",
-    "email": "ceo@niledev.eg",
-    "plan": "starter",
-    "keywords": [
-      "developer",
-      "tender",
-      "cement",
-      "residential"
-    ],
+    "keywords": ["tender", "MEP", "New Cairo", "steel"],
     "paid": true,
     "active": true
   }
